@@ -2,7 +2,7 @@
 
 👋 **Hey there! I’m TechTrekker9087**, your friendly neighborhood code explorer! 🚀 Passionate about pushing boundaries in the tech universe through coding and collaboration.
 
-🌱 **Currently Adventuring:** Immersed in JAVA, PYTHON, ANGULAR, REACT NATIVE , DATABASES, DSA and leveling up my skills!
+🌱 **Currently Adventuring:** Immersed in AI,Machine learning , JAVA, PYTHON, ANGULAR, REACT NATIVE , DATABASES, DSA and leveling up my skills!
 
 💻 **Check Out My Projects:** Dive into my repos for cool creations and open-source magic! ✨
 
